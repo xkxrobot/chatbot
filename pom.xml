@@ -11,6 +11,9 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>chatbot_domain</module>
+    <module>chatbot-application</module>
+    <module>chatbot-interfaces</module>
+    <module>chatbot-infrastructure</module>
   </modules>
 
   <properties>
